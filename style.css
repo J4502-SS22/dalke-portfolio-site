@@ -1,6 +1,9 @@
 body {
   background-color: #EAD1DC;
   font-family: "Arial", serif;
+  padding: 50px;
+width: 100vw;
+box-sizing: border-box;
   }
 
 .navlist {
